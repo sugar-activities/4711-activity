@@ -1,0 +1,8 @@
+[Activity]
+name = Weather
+activity_version = 1
+bundle_id = net.mattr.Weather
+exec = sugar-activity weather.WeatherActivity
+icon = activity-weather
+license = GPLv2+
+summary = Weather forecast

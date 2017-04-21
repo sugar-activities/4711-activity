@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 43363)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Weather" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="75px" height="75px" viewBox="0 0 75 75" enable-background="new 0 0 75 75" xml:space="preserve">
+<path id="Cloud_1_" fill="#707A7C" stroke="#294172" stroke-width="3.5" stroke-miterlimit="10" d="M32.438,21.135
+	c-0.306-8.779,11.959-18.756,20.08-4.825c0.274-0.136,10.374-7.097,13.472,7.584c8.129-0.347,10.171,17.578-3.051,17.233
+	c-9.512-0.347-24.875,0.823-34.932,0.112C21.741,41.018,21.254,24.885,32.438,21.135z"/>
+<polygon id="Lightning" fill="#FFCE00" stroke="#FFE578" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" points="
+	48.628,40.771 42.984,50.878 49.1,50.407 46.514,57.931 56.151,47.121 50.034,46.882 54.035,40.771 "/>
+<path id="Cloud_2_" fill="#CADCE0" stroke="#4264BA" stroke-width="3.5" stroke-miterlimit="10" d="M11.523,24.221
+	c-0.312-8.933,12.166-19.079,20.425-4.909c0.281-0.138,10.555-7.219,13.703,7.715c8.271-0.351,10.343,17.882-3.104,17.533
+	c-9.675-0.354-25.303,0.835-35.534,0.112C0.638,44.441,0.147,28.034,11.523,24.221z"/>
+<polygon id="Ligtning" fill="#FFCE00" stroke="#FFE578" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" points="
+	21.385,39.33 12.747,54.811 22.106,54.092 18.146,65.611 35.785,49.051 26.425,48.691 32.546,39.33 "/>
+</svg>

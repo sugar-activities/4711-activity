@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 43363)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Weather" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="75px" height="75px" viewBox="0 0 75 75" enable-background="new 0 0 75 75" xml:space="preserve">
+<path id="mist" fill="none" stroke="#CADCE0" stroke-width="3.5" stroke-linecap="round" d="M60.504,23.4l-11.232-2.88L37.75,23.4
+	l-12.482-2.88l-10.77,2.88"/>
+<path id="fog" fill="none" stroke="#4264BA" stroke-width="3.5" stroke-linecap="round" d="M60.504,33.583l-11.232-2.879
+	L37.75,33.583l-12.48-2.879L14.5,33.583"/>
+<path id="smoke" fill="none" stroke="#707A7C" stroke-width="3.5" stroke-linecap="round" d="M60.504,43.768l-11.232-2.879
+	L37.75,43.768l-12.48-2.879L14.5,43.768"/>
+<path id="dust" fill="none" stroke="#294172" stroke-width="3.5" stroke-linecap="round" d="M60.504,54.479l-11.232-2.881
+	L37.75,54.479l-12.48-2.881L14.498,54.48"/>
+</svg>

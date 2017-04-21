@@ -1,0 +1,343 @@
+# Spanish translations for Weather package.
+# Copyright (C) 2013 THE Weather'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the Weather package.
+#
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Weather.activity\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-04 17:48-0400\n"
+"PO-Revision-Date: 2013-08-15 20:01-0400\n"
+"Last-Translator: \n"
+"Language-Team: Spanish\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: activity/activity.info:2
+msgid "Weather"
+msgstr ""
+
+#: searchscreen.py:63 forecastscreen.py:81 forecastscreen.py:268
+msgid "Wind"
+msgstr "Viento"
+
+#: searchscreen.py:69 forecastscreen.py:87 forecastscreen.py:273
+msgid "Clouds"
+msgstr "Nubes"
+
+#: searchscreen.py:75 forecastscreen.py:93 forecastscreen.py:278
+msgid "Pressure"
+msgstr "Presión"
+
+#: searchscreen.py:81 forecastscreen.py:99 forecastscreen.py:283
+msgid "Humidity"
+msgstr "Humedad"
+
+#: openweathermap.py:88
+msgid "thunderstorm with light rain"
+msgstr "tormenta eléctrica con lluvia ligera"
+
+#: openweathermap.py:89
+msgid "thunderstorm with rain"
+msgstr "tormenta eléctrica con lluvia"
+
+#: openweathermap.py:90
+msgid "thunderstorm with heavy rain"
+msgstr "tormenta eléctrica con lluvia intensa"
+
+#: openweathermap.py:91
+msgid "light thunderstorm"
+msgstr "tormenta eléctrica ligera"
+
+#: openweathermap.py:92
+msgid "thunderstorm"
+msgstr "tormenta eléctrica"
+
+#: openweathermap.py:93
+msgid "heavy thunderstorm"
+msgstr "fuerte tormenta eléctrica"
+
+#: openweathermap.py:94
+msgid "ragged thunderstorm"
+msgstr "tormenta eléctrica desigual"
+
+#: openweathermap.py:95
+msgid "thunderstorm with light drizzle"
+msgstr "tormenta eléctrica con llovizna ligera"
+
+#: openweathermap.py:96
+msgid "thunderstorm with drizzle"
+msgstr "tormenta eléctrica con llovizna"
+
+#: openweathermap.py:97
+msgid "thunderstorm with heavy drizzle"
+msgstr "tormenta eléctrica con llovizna intensa"
+
+#: openweathermap.py:98
+msgid "light intensity drizzle"
+msgstr "llovizna ligera"
+
+#: openweathermap.py:99
+msgid "drizzle"
+msgstr "llovizna"
+
+#: openweathermap.py:100
+msgid "heavy intensity drizzle"
+msgstr "llovizna de gran intensidad"
+
+#: openweathermap.py:101
+msgid "light intensity drizzle rain"
+msgstr "lluvia y llovizna ligera"
+
+#: openweathermap.py:102
+msgid "drizzle rain"
+msgstr "lluvia y llovizna"
+
+#: openweathermap.py:103
+msgid "heavy intensity drizzle rain"
+msgstr "lluvia y llovizna de gran intensidad"
+
+#: openweathermap.py:104
+msgid "shower drizzle"
+msgstr "llovizna de ducha"
+
+#: openweathermap.py:105
+msgid "light rain"
+msgstr "lluvia ligera"
+
+#: openweathermap.py:106
+msgid "moderate rain"
+msgstr "lluvia moderada"
+
+#: openweathermap.py:107
+msgid "heavy intensity rain"
+msgstr "lluvia de gran intensidad"
+
+#: openweathermap.py:108
+msgid "very heavy rain"
+msgstr "lluvia muy fuerte"
+
+#: openweathermap.py:109
+msgid "extreme rain"
+msgstr "lluvia muy fuerte"
+
+#: openweathermap.py:110
+msgid "freezing rain"
+msgstr "lluvia helada"
+
+#: openweathermap.py:111
+msgid "light intensity shower rain"
+msgstr "lluvia de ducha de intensidad de luz"
+
+#: openweathermap.py:112
+msgid "shower rain"
+msgstr "lluvia de ducha"
+
+#: openweathermap.py:113
+msgid "heavy intensity shower rain"
+msgstr "lluvia de ducha de gran intensidad"
+
+#: openweathermap.py:114
+msgid "light snow"
+msgstr "nevada ligera"
+
+#: openweathermap.py:115
+msgid "snow"
+msgstr "nieve"
+
+#: openweathermap.py:116
+msgid "heavy snow"
+msgstr "nevada intensa"
+
+#: openweathermap.py:117
+msgid "sleet"
+msgstr "aguanieve"
+
+#: openweathermap.py:118
+msgid "shower snow"
+msgstr "nieve de ducha"
+
+#: openweathermap.py:119
+msgid "mist"
+msgstr "niebla"
+
+#: openweathermap.py:120
+msgid "smoke"
+msgstr "humo"
+
+#: openweathermap.py:121
+msgid "haze"
+msgstr "niebla"
+
+#: openweathermap.py:122
+msgid "sand/dust whirls"
+msgstr "torbellinos de arena/polvo"
+
+#: openweathermap.py:123
+msgid "fog"
+msgstr "bruma"
+
+#: openweathermap.py:124
+msgid "dust"
+msgstr ""
+
+#: openweathermap.py:125
+msgid "sky is clear"
+msgstr "cielo claro"
+
+#: openweathermap.py:126
+msgid "few clouds"
+msgstr "algo de nubes"
+
+#: openweathermap.py:127
+msgid "scattered clouds"
+msgstr "nubes dispersas"
+
+#: openweathermap.py:128
+msgid "broken clouds"
+msgstr "nubes rotas"
+
+#: openweathermap.py:129
+msgid "overcast clouds"
+msgstr "nubes"
+
+#: openweathermap.py:130
+msgid "tornado"
+msgstr "tornado"
+
+#: openweathermap.py:131
+msgid "tropical storm"
+msgstr "tormenta tropical"
+
+#: openweathermap.py:132
+msgid "hurricane"
+msgstr "huracán"
+
+#: openweathermap.py:133
+msgid "cold"
+msgstr "frío"
+
+#: openweathermap.py:134
+msgid "hot"
+msgstr "calor"
+
+#: openweathermap.py:135
+msgid "windy"
+msgstr "ventoso"
+
+#: openweathermap.py:136
+msgid "hail"
+msgstr "granizo"
+
+#: weather.py:56
+msgid ""
+"Enter the city's name to get a list of the most proper cities in the "
+"world. \n"
+"The more precise the city name you put, the more precise list you will "
+"get. \n"
+"Example - <b>Lon</b> or <b>Lond</b> or <b>London</b>."
+msgstr ""
+
+#: weather.py:111
+msgid "Temperature:"
+msgstr "Temperatura:"
+
+#: weather.py:162
+msgid "Back"
+msgstr "Volver"
+
+#: weather.py:169
+msgid "Forecast"
+msgstr "Pronóstico"
+
+#: weather.py:220
+msgid "Download Error"
+msgstr "Error"
+
+#: weather.py:221
+msgid "There was a problem with the download"
+msgstr "Problema con la descarga"
+
+#: forecastscreen.py:42
+msgid "Jan"
+msgstr "ene"
+
+#: forecastscreen.py:42
+msgid "Feb"
+msgstr "feb"
+
+#: forecastscreen.py:42
+msgid "Mar"
+msgstr "mar"
+
+#: forecastscreen.py:42
+msgid "Apr"
+msgstr "abr"
+
+#: forecastscreen.py:42
+msgid "May"
+msgstr "may"
+
+#: forecastscreen.py:42
+msgid "Jun"
+msgstr "jun"
+
+#: forecastscreen.py:43
+msgid "Jul"
+msgstr "jul"
+
+#: forecastscreen.py:43
+msgid "Aug"
+msgstr "ago"
+
+#: forecastscreen.py:43
+msgid "Sep"
+msgstr "sep"
+
+#: forecastscreen.py:43
+msgid "Oct"
+msgstr "oct"
+
+#: forecastscreen.py:43
+msgid "Nov"
+msgstr "nov"
+
+#: forecastscreen.py:43
+msgid "Dec"
+msgstr "dic"
+
+#: forecastscreen.py:45
+msgid "Monday"
+msgstr "lunes"
+
+#: forecastscreen.py:45
+msgid "Tuesday"
+msgstr "martes"
+
+#: forecastscreen.py:45
+msgid "Wednesday"
+msgstr "miércoles"
+
+#: forecastscreen.py:45
+msgid "Thursday"
+msgstr "jueves"
+
+#: forecastscreen.py:46
+msgid "Friday"
+msgstr "viernes"
+
+#: forecastscreen.py:46
+msgid "Saturday"
+msgstr "sábado"
+
+#: forecastscreen.py:46
+msgid "Sunday"
+msgstr "domingo"
+
+#: forecastscreen.py:63
+msgid "Next days"
+msgstr "próximos días"

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 43363)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Weather" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="75px" height="75px" viewBox="0 0 75 75" enable-background="new 0 0 75 75" xml:space="preserve">
+<g id="Sun">
+	<polygon fill="#FFCE00" stroke="#FFE578" stroke-width="3.5" stroke-miterlimit="10" points="53.097,42.626 61.796,45.487 
+		61.796,35.505 69.176,29.042 61.796,23.92 62.752,14.849 55.809,14.849 49.085,8.112 43.956,14.22 33.475,14.849 34.467,23.92 
+		26.543,29.042 33.996,35.505 33.066,45.487 41.918,42.467 46.577,49.924 	"/>
+	<circle fill="#FFCE00" stroke="#FFE578" stroke-width="3.5" stroke-miterlimit="10" cx="48.082" cy="28.751" r="12.342"/>
+</g>
+<g id="Rain_1_">
+	<path id="drop1_1_" fill="#FFFFFF" stroke="#5FACE0" stroke-width="3.5" stroke-linecap="round" d="M54.398,66.889L54.398,66.889
+		L44.649,52.26"/>
+	<path id="drop2_1_" fill="#FFFFFF" stroke="#5FACE0" stroke-width="3.5" stroke-linecap="round" d="M45.687,66.889L35.938,52.26"/>
+	<path id="drop3_1_" fill="#FFFFFF" stroke="#5FACE0" stroke-width="3.5" stroke-linecap="round" d="M36.977,66.889l-9.75-14.629"/>
+	<path id="drop4_1_" fill="#FFFFFF" stroke="#5FACE0" stroke-width="3.5" stroke-linecap="round" d="M27.81,66.889L18.06,52.26"/>
+</g>
+<path id="Cloud_2_" fill="#E3FAFF" stroke="#5FACE0" stroke-width="3.5" stroke-miterlimit="10" d="M14.823,30.744
+	c-0.313-8.933,12.164-19.079,20.425-4.91c0.282-0.139,10.556-7.219,13.703,7.714c8.275-0.349,10.342,17.883-3.104,17.536
+	c-9.677-0.354-25.305,0.835-35.537,0.108C3.936,50.964,3.447,34.56,14.823,30.744z"/>
+</svg>
